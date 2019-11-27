@@ -1,9 +1,8 @@
 # functional-programming
-![opening-foto](https://user-images.githubusercontent.com/43337909/69763414-5f86d200-116d-11ea-8b65-8ef1eec68116.png)
+![opening-foto](https://user-images.githubusercontent.com/43337909/69763519-ae346c00-116d-11ea-9c06-7e8d44886c87.png)
 
 # Het concept
-![idee generatie-2](https://user-images.githubusercontent.com/43337909/68127703-b276bc00-ff16-11e9-8d27-709fa0efcf81.jpg)
-Bij het rad van fortuin zijn twee schijven aanwezig. Één voor jaartallen (tussen jaartal X en Y) en één voor een bepaalde categorie. Met een spin gaan beide schijven draaien en stoppen ze op een willekeurige waarde. Vervolgens worden hier de bijpassende objecten voor opgehaald en geplaatst op de wereldkaart via GEO coördinaten. Om te voorkomen dat er alleen maar objecten op dezelfde plek wordt weergegeven, worden er maar 3 tot 5 items weeergegeven per continent. Ook is er een toggle aanwezig. Deze toggled om alle objecten te laten zien, of alle objecten die al ooit tentoon zijn gesteld. Zo kan de gebruiker kiezen of hij objecten wil zien waar het museum trots op is of om te bekijken wat de enorme collectie allemaal te bieden heeft.
+Bij het rad van fortuin is een schijf aanwezig met eeuwen (tussen bijv. jaartal 1900 en 1999). Daarnaast zijn er een aantal knoppen aanwezig waarmee een categorie gekozen kan worden. Met een spin gaat de schijf draaien en stopt deze op een willekeurige waarde. Vervolgens worden hier de bijpassende objecten voor opgehaald en geplaatst op de wereldkaart via GEO coördinaten. Om te voorkomen dat er alleen maar objecten op dezelfde plek wordt weergegeven, worden er maar 3 tot 5 items weeergegeven per continent. Ook is er een toggle aanwezig. Deze toggled om óf alle objecten te laten zien, óf alle objecten die al ooit tentoon zijn gesteld. Zo kan de gebruiker kiezen of hij objecten wil zien waar het museum trots op is of om te bekijken wat de enorme collectie allemaal te bieden heeft.
 
 ### Waarom dit concept:
 - Dit concept past het beste bij de eisen van Rick. Ondanks dat dit niet nodig is, vind ik het wel leuk om aan de eisen van alle stakeholders te voldoen. Met dit concept is er én een presentatie van alle objecten binnen de collectie én is het interactief.
@@ -82,6 +81,11 @@ Voor mijn specifieke project heb ik opgeschoonde jaartallen nodig. Daarom heb ik
 
 Hier komt de volgende opgeschoonde array met objecten uit voort:
 ![Screenshot 2019-11-27 at 23 25 59](https://user-images.githubusercontent.com/43337909/69763412-5bf34b00-116d-11ea-933f-debcc055ddba.png)
+
+## Ik had het niet zonder deze developers gekund
+- Credits naar **Laurens** voor het leggen van de basis van een visualisatie van een kaart: https://vizhub.com/Coenmathijssen/98b3cfd085cd4582b4c3ddead86c8901
+- Credits naar **Jeremy Rue** voor het voorbeeld (D3 v3) van een visualisatie met een wheel of fortune 
+http://bl.ocks.org/jrue/a2aaf36b3c096925ccbf
 
 ## Auteur 
 [Coen Mathijssen - GitHub](https://github.com/Coenmathijssen/)
