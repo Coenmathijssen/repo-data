@@ -85,9 +85,9 @@ Hier komt de volgende opgeschoonde array met objecten uit voort:
 ## Credits
 - Credits naar **Laurens** voor het leggen van de basis van een visualisatie van een kaart: 
 [map](https://vizhub.com/Coenmathijssen/98b3cfd085cd4582b4c3ddead86c8901)
-- Credits naar **Jeremy Rue** voor het voorbeeld (D3 v3) van een visualisatie met een wheel of fortune 
+- Credits naar **Jeremy Rue** voor het voorbeeld (D3 v3) van een visualisatie met een wheel of fortune: 
 [wheel of fortune](http://bl.ocks.org/jrue/a2aaf36b3c096925ccbf)
-- Credits naar bl.ocks voor een voorbeeld van een tooltip functie 
+- Credits naar bl.ocks voor een voorbeeld van een tooltip functie:
 [tooltip](http://bl.ocks.org/d3noob/a22c42db65eb00d4e369)
 
 ## Auteur 
