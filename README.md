@@ -49,7 +49,7 @@ Bij het rad van fortuin is een schijf aanwezig met eeuwen (tussen bijv. jaartal 
 <br></br>
 `npm run dev`
 Deze commando's zijn aan te passen in de package.json
-<br>/br>
+<br></br>
 6. Open de index.html in je browser om de website te bekijken
 
 # Deployment
