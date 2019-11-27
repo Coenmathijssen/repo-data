@@ -82,10 +82,13 @@ Voor mijn specifieke project heb ik opgeschoonde jaartallen nodig. Daarom heb ik
 Hier komt de volgende opgeschoonde array met objecten uit voort:
 ![Screenshot 2019-11-27 at 23 25 59](https://user-images.githubusercontent.com/43337909/69763412-5bf34b00-116d-11ea-933f-debcc055ddba.png)
 
-## Ik had het niet zonder deze developers gekund
-- Credits naar **Laurens** voor het leggen van de basis van een visualisatie van een kaart: https://vizhub.com/Coenmathijssen/98b3cfd085cd4582b4c3ddead86c8901
+## Credits
+- Credits naar **Laurens** voor het leggen van de basis van een visualisatie van een kaart: 
+[map](https://vizhub.com/Coenmathijssen/98b3cfd085cd4582b4c3ddead86c8901)
 - Credits naar **Jeremy Rue** voor het voorbeeld (D3 v3) van een visualisatie met een wheel of fortune 
-http://bl.ocks.org/jrue/a2aaf36b3c096925ccbf
+[wheel of fortune](http://bl.ocks.org/jrue/a2aaf36b3c096925ccbf)
+- Credits naar bl.ocks voor een voorbeeld van een tooltip functie 
+[tooltip](http://bl.ocks.org/d3noob/a22c42db65eb00d4e369)
 
 ## Auteur 
 [Coen Mathijssen - GitHub](https://github.com/Coenmathijssen/)
